@@ -10,4 +10,5 @@ class Song
     @genre = genre
   end 
   
+  @@song_count += 1 
   

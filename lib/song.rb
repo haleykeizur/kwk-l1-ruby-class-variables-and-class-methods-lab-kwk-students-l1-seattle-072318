@@ -17,4 +17,6 @@ class Song
   
   @@count += 1 
   
+  Song.class_variable_get
+  
 end
